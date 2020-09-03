@@ -26,6 +26,75 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 
 |
+.. _author_list_html_research_papers:          
+
+2. Author List
+---------------
+
+2.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
+
+2.2. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
+
+2.3. Check that there is no period (or any other punctuation mark) after the last author name.
+
+.. image:: /_static/html_author_list_separ.png
+   :alt: Author list separators
+   :scale: 99%
+
+2.4. Check the format of the author name. 
+
+Allowed formats:
+
+	+  :sample:`FirstName LastName`
+	+  :sample:`FirstName MiddleName LastName`
+	+  :sample:`FirstName MiddleName MiddleName LastName` (there can any number of middle names)
+	+  :sample:`FirstName MN. LastName` (MN. are initials of middle names; up to 4 letters)
+	+  :sample:`FirstName M.N. LastName` (M.N. are initials of middle names; up to 4 letters)
+	+  :sample:`F. MiddleName LastName` (F. is an initial of first name)
+	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
+
+.. Important::
+	As a general rule, we don't want to keep initials for first names. Request the expanded name from the author in this situation. If the authors insist on a first initial, then the middle name(s) must be present and fully expanded. |br| |br|
+	LastName **cannot** be presented as initial (even if authors insist on this). LastName should always be presented in full.
+
+
+Please note that last names can be compound, can have prepositions, suffixes, prefixes or be :ref:`mononyms<mononym>`. For example:
+
+	- Compound last names: :sample:`Garcia-Closas, Gomez Jimenez`
+	- Last name related prepositions: :sample:`Van den Brandt, van der Ent`
+	- Suffixes: :sample:`Williams 3rd, Rowland Jr`
+	- Prefixes: :sample:`McCann, O'Kelly`
+	- Mononym: :sample:`Govindjee`
+
+If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
+
+2.5. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers.
+
+.. image:: /_static/html_aff_texts_and_authors.png
+	:scale: 99%
+	:alt: Affiliation texts and authors
+
+If there is only one affiliation text for all authors, then each author name should have “1” next to it.
+
+.. image:: /_static/html_one_affiliation_all_auth.png
+   :alt: One affiliation for all authors
+   :scale: 99%
+
+2.6. Check that all affiliation numbers of the author list are separated by commas (,). No other separator is allowed.
+
+2.7. Check that all affiliation numbers of the author list are formatted in superscript. See below.
+
+.. image:: /_static/html_affiliation_numbers.png
+   :alt: Affiliation Numbers
+   :scale: 99%
+
+.. Note::
+	
+	Occasionally you may see a symbol (*, #, †, etc.) next to the author name together with affiliation number. This symbol is related to Author Notes. |br|
+	:ref:`Author Notes checks<author_notes>` can be found below.
+
+
+|
 .. _affiliations_research_papers:          
 
 2. Affiliations
