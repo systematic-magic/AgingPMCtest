@@ -1,24 +1,26 @@
 .. role:: sample
 
-.. _title_research_papers:
+.. _html_research_papers:
 
 HTML: All Papers (except Editorials)
 ====================================
 
+.. _title_html_research_papers:
 
 1. Title
 --------
 
-1.1. Check that title is in sentence case.
+1.1. Check that title is in :ref:`sentence case<sentence_case>`.
 
 1.2. Check title spelling.
 
 1.3. Check that title is written in black and bold font.
 
-1.4. Check that capitalisation of scientific terms is correct.
+1.4. Check that capitalization of scientific terms is correct.
+We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term.
 
-1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
-For other Latin terms either italics or plain text is acceptable.
+1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ, via*. 
+For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
 
 1.6. Check that species and gene names are written in italics.
 
