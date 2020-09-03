@@ -28,3 +28,9 @@ Happy hunting!
 
    HTML <editorials_news_html>
    PDF <editorials_news_pdf>
+
+
+.. toctree::
+   :caption: Appendix:
+
+   vocabulary
