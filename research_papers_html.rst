@@ -91,7 +91,7 @@ If there is only one affiliation text for all authors, then each author name sho
 .. Note::
 	
 	Occasionally you may see a symbol (*, #, †, etc.) next to the author name together with affiliation number. This symbol is related to Author Notes. |br|
-	:ref:`Author Notes checks<author_notes>` can be found below.
+	:ref:`Author Notes checks<author_notes_html_research_papers>` can be found below.
 
 
 |
@@ -134,6 +134,39 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
+
+
+|
+.. _author_notes_html_research_papers:
+
+4. Author Notes
+---------------
+
+Author notes are optional. Article can have several or no author notes.
+
+.. image:: /_static/html_author_notes_examples.png
+   	:alt: Author Notes Examples
+	:scale: 99%
+
+4.1. Check that first word of author notes starts with a capital letter.
+
+4.2. Check that author notes are denoted by symbol (no numbers allowed). Each note should have different symbol.
+
+	- First author note should be denoted by: *
+	- Second author note should be denoted by: #
+	- Third author note should be denoted by: †
+
+4.3. Check that author notes line is written in :ref:`sentence case<sentence_case>`.
+
+4.4. Check that there are no punctuation marks at the end of author notes line.
+
+4.5. Check that author notes symbols are formatted in superscript.
+
+4.6. Check that author notes symbol is present next to author name(s).
+
+.. image:: /_static/html_author_notes.png
+   	:alt: Author Notes
+	:scale: 99%
 
 
 |
