@@ -207,8 +207,6 @@ Author notes are optional. Article can have several or no author notes.
 
 6.2. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter.
 
-We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term. If any doubts remain or any keywords are found to be formatted inconsistently throughout the MS when using the previously mentioned procedure, please contact the author.
-
 6.3. Check that article has at least 1 keyword and not more than 8 keywords.
 
 
