@@ -258,7 +258,7 @@ and followed by:
 
 
 |
-.. _callouts_research_papers:
+.. _reference_callouts_html_research_papers:
 
 9. Reference Callouts
 ---------------------
@@ -297,48 +297,49 @@ Callouts can be found in text, figures and tables.
 
 
 |
-.. _references_research_papers:
+.. _references_html_research_papers:
 
-9. References
+10. References
 --------------
 
-.. _author_list_research_papers:
+.. _refs_author_list_html_research_papers:
 
-9.1. Author List
+10.1. Author List
 ----------------
-9.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
+10.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
-.. image:: /_static/pic9_author_name_format.png
+.. image:: /_static/author_name_format.png
    :alt: Author Names format
+   :scale: 99%
 
-9.1.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
+10.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
 
-9.1.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
+10.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
-9.1.4. Check that List of Authors contains no more than either:
+10.1.4. Check that List of Authors contains no more than either:
 
 - 13 authors followed by “et al.”  OR
 
 - 14 authors
 
-.. image:: /_static/pic10_author_number.png
+.. image:: /_static/html_pic10_author_number.png
    :alt: Max number of authors
 
 
-.. image:: /_static/pic11_author_etal_number.png
+.. image:: /_static/html_pic11_author_etal_number.png
    :alt: Max number of authors followed by et al
 
-9.1.5. Check that authors are separated by comma (,) followed by space.
+10.1.5. Check that authors are separated by comma (,) followed by space.
 
-9.1.6. Check that et al is separated from List of Authors by comma (,).
+10.1.6. Check that et al is separated from List of Authors by comma (,).
 
-9.1.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
+10.1.7. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after :ref:`group authorship<group_authorship>` (if present).
 
-9.1.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
+10.1.8. List of authors can contain :ref:`group authorship<group_authorship>` (see screenshot below). Check that group authorship is positioned at the end of list of authors. Other positions are not allowed.
 
-9.1.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
+10.1.9. :ref:`Group authorship<group_authorship>` must be separated from author list by comma (,) and "and" word. Group authorship is not counted against total number of authors in the author list quota.
 
 
 .. image:: /_static/ref_etal_group_auth.png
@@ -348,7 +349,7 @@ Callouts can be found in text, figures and tables.
    :alt: Group Authorship
 
 
-9.1.10. If there are multiple Group Authorshipts, then those should be separated by comma (,) and "and" word. 
+10.1.10. If there are multiple :ref:`group authorships<group_authorship>`, then those should be separated by comma (,) and "and" word. 
 
 .. image:: /_static/ref_mult_group_auth.png
    :alt: Group Authorship
