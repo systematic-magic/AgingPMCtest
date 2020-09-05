@@ -232,29 +232,30 @@ Author notes are optional. Article can have several or no author notes.
 
 
 |
-.. _copyright_research_papers:
+.. _copyright_html_research_papers:
 
-6. Copyright
+8. Copyright
 ------------
-6.1. Check that copyright section has a title "Copyright ©" (starts with capital letter and followed by copyright symbol (©))
+8.1. Check that copyright section has a title "Copyright ©" (:ref:`title case<title_case>` and followed by copyright symbol (©)).
 
-6.2. Check that copyright sting starts with a YEAR followed by:
+8.2. Check that copyright string starts with a YEAR followed by:
 
 :sample:`Last name of first author et al.`
 
 **or** 
 
-:sample:`two last names divided by "and"` (if there are only two authors in the article)
+:sample:`two last names divided by "and" and followed by a period (.)` (if there are only two authors in the article)
 
 and followed by:
 
-:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution (CC BY) 3.0 License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.`
+:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.`
 
 
 .. image:: /_static/cpright_format.png
    :alt: Copyright format 
 
-6.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+8.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+
 
 |
 .. _hyperlinks_research_papers:
