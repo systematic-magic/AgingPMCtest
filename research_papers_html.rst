@@ -170,29 +170,29 @@ Author notes are optional. Article can have several or no author notes.
 
 
 |
-.. _correspondece_research_papers:
+.. _correspondece_html_research_papers:
 
-3. Correspondence
+4. Correspondence
 -----------------
 
-3.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” (ALL CAPS)
+4.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” for more than one author or “CORRESPONDING AUTHOR” for one author (ALL CAPS).
 
-3.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an Author can have 2 or more emails.
+4.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an Author can have 2 or more emails.
 
-3.3. Check that Author FullName line does not have any puncutation marks at the end.
+4.3. Check that author’s name does not have any punctuation marks at the end.
 
-3.4. Check that email line is located below the Author FullName nad does not have any punctuation marks at the end.
+4.4. Check that email line is located below the author’s name and does not have any punctuation marks at the end.
 
-3.5. Check that multiple Author + Email pairs are divided by a blank line.
+4.5. Check that multiple Author + Email pairs are divided by a blank line.
 
 .. image:: /_static/corr_format.png
    :alt: Correspondence format
 
-3.6. Check that Author FullName does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.)
+4.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
-3.7. Check that email address is hyperlinked
+4.7. Check that email address is hyperlinked.
 
-3.8. Check that Author FullName matches corresponding name in the author list (including the middle initials if any)
+4.8. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
 .. image:: /_static/corr_auth_mtch.png
    :alt: Correspondence author match
