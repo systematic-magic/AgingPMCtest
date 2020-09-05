@@ -211,27 +211,25 @@ Author notes are optional. Article can have several or no author notes.
 
 
 |
-.. _dates_research_papers:
+.. _dates_html_research_papers:
 
-5. Dates
+7. Dates
 --------
 
-5.1. Check that Dates section has titles “received:”, “accepted:”, “published:” (start with small letter and followed by colon (:))
-
-5.2. Check that the dates are separated by semicolon (;). There is a space after semicolon.
-
-5.3. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
-(e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
-
-5.4. Check spelling of the month
+7.1. Check that dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
 
 .. image:: /_static/dates_format.png
-   :alt: Dates format 
+   :alt: Dates format
+   :scale: 99%
 
+7.2. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year (e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
 
-5.5. Check that Received date is older than Accepted date (i.e. we cannot publish before we accept).
+7.3. Check spelling of the month.
+
+7.4. Check that Received date is older than Accepted date (i.e. we cannot publish before we accept).
 
 .. note:: Pay attention to years.
+
 
 |
 .. _copyright_research_papers:
