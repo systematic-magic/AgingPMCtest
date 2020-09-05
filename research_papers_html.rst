@@ -198,16 +198,19 @@ Author notes are optional. Article can have several or no author notes.
    :alt: Correspondence author match
 
 |
-.. _keywords_research_papers:
+.. _keywords_html_research_papers:
 
-4. Keywords
+6. Keywords
 -----------
 
-4.1. Check that Keywords section has a title "KEYWORDS” (ALL CAPS)
+6.1. Check that Keywords section has a title "KEYWORDS” (ALL CAPS).
 
-4.2. Check that article has at least 1 keyword (Note: number of keywords is not limited).
+6.2. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter.
 
-4.3. Check that keywords start with a small letter (exception: special terms, genes, proteins, species names etc, which normally start with capital letter).
+We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term. If any doubts remain or any keywords are found to be formatted inconsistently throughout the MS when using the previously mentioned procedure, please contact the author.
+
+6.3. Check that article has at least 1 keyword and not more than 8 keywords.
+
 
 |
 .. _dates_research_papers:
