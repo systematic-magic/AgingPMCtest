@@ -306,7 +306,7 @@ Callouts can be found in text, figures and tables.
 
 10.1. Author List
 ^^^^^^^^^^^^^^^^^
-10.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
+10.1.1. Check that author names in the list of authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
@@ -318,7 +318,7 @@ Callouts can be found in text, figures and tables.
 
 10.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
-10.1.4. Check that List of Authors contains no more than either:
+10.1.4. Check that list of authors contains no more than either:
 
 - 13 authors followed by “et al.”  OR
 
@@ -333,7 +333,7 @@ Callouts can be found in text, figures and tables.
 
 10.1.5. Check that authors are separated by comma (,) followed by space.
 
-10.1.6. Check that et al is separated from List of Authors by comma (,).
+10.1.6. Check that et al is separated from list of authors by comma (,).
 
 10.1.7. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after :ref:`group authorship<group_authorship>` (if present).
 
@@ -487,7 +487,7 @@ If you find duplicate references, please contact production team and ask to corr
 10.6. Websites
 ^^^^^^^^^^^^^^
 
-10.6.1. here is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+10.6.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
 10.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
 
@@ -500,7 +500,7 @@ If the link is not valid, please contact author to provide a working link.
 10.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-10.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be present.s
+10.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be present.
 
 
 |
