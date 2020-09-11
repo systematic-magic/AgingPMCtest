@@ -305,7 +305,7 @@ Callouts can be found in text, figures and tables.
 .. _refs_author_list_html_research_papers:
 
 10.1. Author List
-----------------
+^^^^^^^^^^^^^^^^^
 10.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
@@ -355,57 +355,68 @@ Callouts can be found in text, figures and tables.
    :alt: Group Authorship
 
 |
-.. _reference_title_research_papers:
+.. _reference_title_html_research_papers:
 
-9.2. Reference Title
---------------------
+10.2. Reference Title (in-house)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-9.2.1. Title can be written in Sentance case, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
+10.2.1. Title can be written in :ref:`sentence case<sentence_case>`, :ref:`title case<title_case>` or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent across all references in the article.
+
+10.2.2. Check that title is followed by a period (.). There should be a space after period.
 
 
 |
-.. _citation_data_research_papers:
+.. _citation_data_in_house_html_research_papers:
 
-9.3. Citation-Data
--------------------
-Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
+10.3. Citation-Data (in-house)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-9.3.1.Check that journal citation-data has the following elements in this order: |br|
+.. ATTENTION::
+	
+	This section is applicable ONLY to in-house journals: |br|
+	 **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
+
+Citation data is a part of a reference, which contains journal title, year, volume, pages, doi and PubMed link.
+
+10.3.1. Check that citation data has correct journal title. The following titles are allowed:
+
+	| :sample:`Oncotarget`
+	| :sample:`Oncoscience`
+	| :sample:`Aging (Albany NY)`
+	| :sample:`Genes Cancer`
+
+	This is the only acceptable spelling. No variations are allowed.
+
+.. _citation_data_in_house_format_html_research_papers:
+
+10.3.2. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
-.. image:: /_static/citation_data.png
+.. image:: /_static/citation_data_inhouse.png
    :alt: Citation-Data format
 
-- JournalTitle should be followed by dot (.)
+- Journal title should be followed by period (.) There should be a space after period.
 
-- Year should be followed by semicolon (;)
+- Year should be presented in full (4 digits) and should be followed by semicolon (;). There should be a space after semicolon.
 
-- Volume should be followed by colon (:)
+- Volume should be followed by colon (:). There can be a space after colon (but this is not mandatory).
 
-- Page numbers should be followed by dot (.)
+- Page numbers must be written in shortened format (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
+- DOI must be present and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end.
 
-- Page number range must be written either in shorten format (12063-74). Only shortened format is allowed. |br| 
-In rare cases reference can contain just a first page number. This is also allowed.
+- “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
-- DOI must be in "https://doi.org" format. There must be no dot at the end.
-
-- [PubMed] should be an active link leading to the article page on the PubMed website. There must be no dot at the end.
-
-
-9.3.2. Check that all elements of citation-data are present in the correct format (see above).
-
-9.3.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
+10.3.3. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
 
-- Check that there is a dot (.) after Year
-- Check that there is a dot (.) after [Epub ahead of print]
-- Check that [Epub ahead of print] goes after Year and before DOI.
+- Check that there is a period (.) after year followed by a space.
+- Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
+- Check that “[Epub ahead of print]” appears after year and before DOI.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`10.3.2<citation_data_in_house_format_html_research_papers>`.
 
 .. image:: /_static/ref_ahead_of_print.png
    :alt: Ahead of Print
-
 
 |
 .. _general_checks_research_papers:
