@@ -40,7 +40,7 @@ No PDF-specific checks
 ---------------
 No PDF-specific checks
 
-:ref:`+ HTML checks<author_notes>`
+:ref:`+ HTML checks<author_notes_html_research_papers>`
 
 |
 .. _correspondence_pdf_research_papers:
@@ -133,51 +133,49 @@ and followed by:
 
 
 |
-.. _hyperlinks_pdf_research_papers:
-
-7. Hyperlinks
---------------
-7.1. Check that links are hyperlined in blue color and underlined font.
-
-
-.. image:: /_static/hyperlink.png
-   :alt: Hyperlink
-
-
-`+ HTML checks`
-
-
-|
 .. _callouts_pdf_research_papers:
 
-8. Callouts
------------
-8.1. Check that callouts are formatted in plain text and are not hyperlinked.
+9. Reference Callouts
+---------------------
+9.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 
 .. image:: /_static/callouts.png
    :alt: Hyperlink
 
 
-`+ HTML checks`
+:ref:`+ HTML checks<reference_callouts_html_research_papers>`
+
 
 |
 .. _references_pdf_research_papers:
 
-9. References
--------------
+10. References
+--------------
 
 .. ATTENTION::
-   	Font of the references differes from rest of the article. This is OK. 
+   	Font of the references differs from rest of the article. This is OK. 
+
 
 |
-.. _author_list_pdf_research_papers:
+.. _refs_author_list_pdf_research_papers:
 
-9.1 Author List
-----------------
+10.1. Author List
+^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<refs_author_list_html_research_papers>`
+
+
+|
+.. _reference_title_pdf_research_papers:
+
+10.2. Reference Title (in-house)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+No PDF-specific checks
+
+:ref:`+ HTML checks<reference_title_html_research_papers>`
+
 
 |
 .. _citation_data_pdf_research_papers:
