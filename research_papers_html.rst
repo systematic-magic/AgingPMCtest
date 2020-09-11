@@ -451,57 +451,56 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 
 |
-.. _general_checks_research_papers:
+.. _general_checks_html_research_papers:
 
-9.4. General checks
-------------------
+10.5. General Checks
+^^^^^^^^^^^^^^^^^^^^
 
-9.4.1. Check for duplicates in the reference list. 
+10.5.1. Check for duplicates in the reference list. 
 
 If you find duplicate references, please contact production team and ask to correct the reference list.
 
-9.4.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
+10.5.2. Check for references translated into English from another language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
 
-   | :sample:`Author list. [Title of the article]. Journal Name. 1072; 1: 1-2.` (doi is optional)
+   | :sample:`Author list. [Title of the article]. Journal Name. 1072; 1: 1-2.` (doi, if available) (PubMed link, if available)
    |
    | `Example:`
    | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
 
-9.4.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find Eglish one).
+10.5.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ if in doubt of the correct journal name.
 
-9.4.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
+10.5.4. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
    
    | `Example:`
    | ":official publication of the society of…"
 
 
-9.4.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
+10.5.5. Remove any instances of “[Internet]”, "[pii]" Accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
 
-9.4.6. Remove “PMID” and “PMCID” details, if present in any reference.
+10.5.6. Remove “PMID” and “PMCID” details, if present in any reference.
 
 
 |
-.. _websites_research_papers:
+.. _websites_html_research_papers:
 
-9.5 Websites
--------------
+10.6. Websites
+^^^^^^^^^^^^^^
 
-9.5.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+10.6.1. here is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
-9.5.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+10.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
 
 If the link is not valid, please contact author to provide a working link.
 
 
 |
-.. _books_research_papers:
+.. _books_html_research_papers:
 
-9.6 Books and reports
----------------------
+10.7. Books and Reports
+^^^^^^^^^^^^^^^^^^^^^^^
 
-9.6.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
-
+10.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be present.s
 
 
 |
