@@ -178,50 +178,68 @@ No PDF-specific checks
 
 
 |
-.. _citation_data_pdf_research_papers:
+.. _citation_data_in_house_pdf_research_papers:
 
-9.2 Citation-Data
--------------------
+10.3. Citation-Data (in-house)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+10.3.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
 
-9.2.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
+10.3.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
 
-9.2.2. Check that "PMID:" word is written in ALL CAPS and formatted as plain text (no special formatting) and has a colon (:) at the end.
-
-9.2.3. Check that PMID number is hyperlinked to the PMID website.
+10.3.3. Check that PMID number is hyperlinked to the PMID website.
 
 .. image:: /_static/PMIDlink.png
    :alt: PMIDlink
 
 
-`+ HTML checks`
+:ref:`+ HTML checks<citation_data_in_house_html_research_papers>`
+
+
+|
+.. _citation_data_other_journals_pdf_research_papers:
+
+10.4. Citation-Data (other journals)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+10.4.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
+
+10.4.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
+
+10.4.3. Check that PMID number is hyperlinked to the PMID website.
+
+.. image:: /_static/PMIDlink.png
+   :alt: PMIDlink
+
+
+:ref:`+ HTML checks<citation_data_other_journals_html_research_papers>`
 
 |
 .. _general_checks_pdf_research_papers:
 
-9.3 General checks
+10.5. General checks
 ------------------
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<general_checks_html_research_papers>`
 
 
 |
 .. _websites_pdf_research_papers:
 
-9.4 Websites
-------------
+16.6. Websites
+^^^^^^^^^^^^^
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<websites_html_research_papers>`
+
 
 |
 .. _books_pdf_research_papers:
 
-9.5 Books and reports
-----------------------
+16.7. Books and Reports
+^^^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<books_html_research_papers>`
 
 
 
