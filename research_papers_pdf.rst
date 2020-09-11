@@ -215,8 +215,8 @@ No PDF-specific checks
 |
 .. _general_checks_pdf_research_papers:
 
-10.5. General checks
-------------------
+10.5. General Checks
+^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
 :ref:`+ HTML checks<general_checks_html_research_papers>`
@@ -226,7 +226,7 @@ No PDF-specific checks
 .. _websites_pdf_research_papers:
 
 16.6. Websites
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 No PDF-specific checks
 
 :ref:`+ HTML checks<websites_html_research_papers>`
@@ -236,7 +236,7 @@ No PDF-specific checks
 .. _books_pdf_research_papers:
 
 16.7. Books and Reports
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
 :ref:`+ HTML checks<books_html_research_papers>`
