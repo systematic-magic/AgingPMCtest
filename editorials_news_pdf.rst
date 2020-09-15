@@ -168,45 +168,55 @@ Callouts can be found in text and figures.
 Reference title should not be present.
 
 |
+.. _citation_data_in_house_pdf_research_papers:
 
+4.3. Citation-Data (in-house)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. ATTENTION::
+	
+	This section is applicable ONLY to in-house journals: |br|
+	 **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
 
+Citation data is a part of a reference, which contains journal title, year, volume, pages, doi and PubMed link.
 
+4.3.1. Check that citation data has correct journal title. The following titles are allowed:
 
+	| :sample:`Oncotarget`
+	| :sample:`Oncoscience`
+	| :sample:`Aging (Albany NY)`
+	| :sample:`Genes Cancer`
 
-3.3. Check that journal citation-data has the following elements in this order: |br|
-|span_format_start| JournalTitle. year; volume: pages. DOI PMID:PMIDnumber |span_end|
+	This is the only acceptable spelling. No variations are allowed.
 
+.. _citation_data_in_house_format_pdf_editorials:
 
-.. image:: /_static/editorials_ref_cit_data.png
-   :alt: Editorials Citation Data format
+4.3.2. Check that journal citation-data has the following elements in this order: |br|
+|span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
+.. image:: /_static/editorial_citation_data_inhouse
+   :alt: Citation-Data format
 
-- JournalTitle should be followed by dot (.)
+- Journal title should be followed by period (.) There should be a space after period.
 
+- Year should be presented in full (4 digits) and should be followed by semicolon (;). There should be a space after semicolon.
 
-- Year should be followed by semicolon (;)
+- Volume should be followed by colon (:). There can be a space after colon (but this is not mandatory).
 
+- Page numbers must be written in shortened format (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- Volume should be followed by colon (:)
+- DOI must be present and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end.
 
+- “[PubMed]” link must be present (when available) and must be presented as “PMID:” word followed by hyperlinked PMID number.
 
-- Page numbers should be followed by dot (.)
+- “PMID:” word must be written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
 
+- PMID number must be hyperlinked to the article on PubMed website.
 
-- Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
+4.3.3. If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`4.3.2<citation_data_in_house_format_pdf_editorials>`..
 
-
-- Page number range can be written either in full (12063-12074) or in shorten format (12063-74). Both formats are allowed.
-
-
-- DOI must be in "https://doi.org" format. There must be no dot at the end.
-
-- [PubMed] link must be presented in PDF as "PMID:" word followed by hyperlinked PMID number.
-
-- "PMID:" word must be written in ALL CAPS and formatted as plain text (no special formatting) and has a colon (:) at the end.
-
-- PMID number must be hyperlinked to the article on PMID website.
+.. image:: /_static/editorial_ref_ahead_of_print.png
+   :alt: Ahead of Print
 
 
 |
