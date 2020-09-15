@@ -290,23 +290,26 @@ Corresponding author and affiliation can be found at the end of the article righ
    :alt: Corresponding author and affiliations
 
 |
-.. _correspondence_editorials_news:
+.. _correspondence_pdf_editorials:
 
-5. Correspondence
+6. Correspondence
 -----------------
 
-"Correspondence:" section can be found at the end of the article right after the Corresponding author and affiliations
+Correspondence section can be found at the end of the article right after the corresponding author and affiliation section.
 
-5.1. Check that correspondence section has a title “Correspondence:” (starts with capital letter and followed by colon (:))
+6.1. Check that Correspondence section is separated from corresponding author and affiliation section by blank line.
 
-5.2. Check that "Correspondence:" is formatted in black, bold and italic font.
+6.2. Check that Correspondence section has a title “Correspondence:” (:ref:`title case<title_case>` and followed by colon (:)).
 
-5.3. Check that "Correspondence:" is followed by full author name. In case of multiple corresponding authors, full names should be divided by comma (,).
+6.3. Check that "Correspondence:" is formatted in black, bold and italic font.
 
-5.4. Check that full author name is formatted in italic font.
+6.4. Check that "Correspondence:" is followed by full author name. In case of multiple corresponding authors, full names should be divided by comma (,).
 
-5.5. Check that full author name is written  the same way as in author list (front page of the paper) and as in "Corresponding author and affiliations" (above).
+6.5. Check that full author name is formatted in italic font.
 
+6.6. Check that there are no punctuation marks at the end of correspondence line.
+
+6.7. Check that author’s full name matches the author list (at the top of the paper) and the corresponding author and affiliation section (above).
 
 .. image:: /_static/correspondence.png
    :alt: Correspondence
