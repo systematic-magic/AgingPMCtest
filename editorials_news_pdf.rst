@@ -28,21 +28,51 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
    :alt: Title
 
 |
-.. _author_list_editorials_news:
+.. _author_list_pdf_editorials:
 
 2. Author list
 --------------
 
-2.1. Check that author lists contains full names of authors divided by comma (,). If there are only 2 authors, then check that they are divided by "and" word.
+.. Note::
+	
+	The number of authors is limited to three for editorials. |br|
 
-2.2. Check that author names are written formatted in black and bold font. 
+2.1. Check that author list contains full names of authors divided by comma (,). If there are only 2 authors, then check that they are divided by "and" word.
 
-2.3. Check that there is no punctuation mark at the end of aurhor list
+2.2. Check that author names are formatted in black and bold font.
+
+2.3. Check that there is no punctuation mark at the end of author list.
 
 2.4. Check that author names do not have affiliation numbers.
 
-2.5. Check that there are no affiliations listed for authors (there must be no affiliations on the page).
+2.5. Check the format of the author name. 
 
+Allowed formats:
+
+	+  :sample:`FirstName LastName`
+	+  :sample:`FirstName MiddleName LastName`
+	+  :sample:`FirstName MiddleName MiddleName LastName` (there can any number of middle names)
+	+  :sample:`FirstName MN. LastName` (MN. are initials of middle names; up to 4 letters)
+	+  :sample:`FirstName M.N. LastName` (M.N. are initials of middle names; up to 4 letters)
+	+  :sample:`F. MiddleName LastName` (F. is an initial of first name)
+	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
+
+.. Important::
+	As a general rule, we don't want to keep initials for first names. Request the expanded name from the author in this situation. If the authors insist on a first initial, then the middle name(s) must be present and fully expanded. |br| |br|
+	LastName **cannot** be presented as initial (even if authors insist on this). LastName should always be presented in full.
+
+
+Please note that last names can be compound, can have prepositions, suffixes, prefixes or be :ref:`mononyms<mononym>`. For example:
+
+	- Compound last names: :sample:`Garcia-Closas, Gomez Jimenez`
+	- Last name related prepositions: :sample:`Van den Brandt, van der Ent`
+	- Suffixes: :sample:`Williams 3rd, Rowland Jr`
+	- Prefixes: :sample:`McCann, O'Kelly`
+	- Mononym: :sample:`Govindjee`
+
+If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
+
+2.6. Check that there are no affiliations listed for authors (there must be no affiliations on the page).
 
 .. image:: /_static/editorial_authors.png
    :alt: Editorials Author format
