@@ -84,6 +84,9 @@ No PDF-specific checks
 
 6.4. Check that there is no punctuation mark at the end of the last keyword.
 
+.. image:: /_static/keywords.png
+   :alt: Keywords
+
 :ref:`+ HTML checks<keywords_html_research_papers>`
 
 
