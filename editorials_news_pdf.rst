@@ -79,6 +79,46 @@ If you see that author name does not comply to these standards, please contact c
 
 
 |
+.. _reference_callouts_pdf_editorials:
+
+3. Reference Callouts
+---------------------
+
+3.1. Check reference callouts in the text:
+
+	- Check the format of reference callouts:
+
+	| :sample:`[N]` (where “N” is the order number of the corresponding reference)
+	|
+	| `Examples:`
+	| :sample:`[1]`
+	| :sample:`[1, 2]`
+	| :sample:`[1–3]`
+	| :sample:`[1, 3–4]`
+
+.. image:: /_static/pdf_editorials_reference_callouts.png
+   :alt: Reference callouts
+   :scale: 99%
+|
+	- Check that only comma (,) and :ref:`en dash<en_dash>` (–) are used as a separators. No other separators are allowed. 
+
+	- Check that there is a space after comma (,) and no space before and after en dash (–).
+
+	- Check that reference callouts are in :ref:`plain text<plain_text>` and are not hyperlinked.
+
+3.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
+Callouts can be found in text and figures.
+
+3.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
+
+3.4. Check that there are no references for which callouts are missing (i.e. there is a reference, but there is no callout for it).
+
+3.5. Check that reference callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a reference has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
+
+	If one or more references or callouts are missing or are being called out of linear order in the text, please contact author.
+
+
+|
 .. _references_editorials_news:
 
 3. References
