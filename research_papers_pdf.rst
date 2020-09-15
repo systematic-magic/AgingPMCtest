@@ -59,7 +59,7 @@ No PDF-specific checks
 
 5.6. Check that the word “email:" is lowercase, is in black and bold font and ends with a colon (:).
 
-5.7. Check that corresponding author email address (or email addresses if there are a few of corresponding authors) are listed after "email:. If there are a few emails, then check that those are divided by comma (,).
+5.7. Check that corresponding author email address (or email addresses if there are a few of corresponding authors) are listed after "email:”. If there are a few emails, then check that those are divided by comma (,).
 
 5.8. Check that there is no punctuation mark at the end of the last email.
 
