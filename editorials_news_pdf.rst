@@ -119,34 +119,47 @@ Callouts can be found in text and figures.
 
 
 |
-.. _references_editorials_news:
+.. _references_pdf_editorials:
 
-3. References
+4. References
 -------------
 
-3.1. Check that reference conains either of the following:
-	- one author name followed by comma (,) and `et al` followed by dot (.)
-	- two author names divided by comma (,) and followed by dot (.)
+.. Note::
+	
+	Maximum allowed number of references is 8. |br|
 
+	References in editorials do not have article title component. |br|
 
-.. image:: /_static/editorials_ref_auth.png
-   :alt: Reference Authors
+   	Font of the references differs from rest of the article. This is OK. |br|
 
+|
+.. _refs_author_list_pdf_research_papers:
 
-3.2. Check that author names in the references have the following format: |br|
+4.1. Author List
+^^^^^^^^^^^^^^^^
+
+4.1.1. Check that author names in the list of authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
- 
-- Check that initials have no more than 3 letters and have NO spaces or hyphens in-between: `Rumi B, Jutten BC, Loo SCJ`
 
-- LastName can include name-related prepositions starting with either upper- or lowercase letter: `van der Ent FW, Van den Brandt PA`
+.. image:: /_static/author_name_format.png
+   :alt: Author Names format
+   :scale: 99%
 
-- LastName can be compound and separated by hyphen or space: |br| `Garcia-Closas M, Gomes Jimenes FJ`
+4.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
 
-- LastName can have prefixes: `McCann MH, O’Kelly M`
+4.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
-- LastName can be a mononym (i.e. have no initials): `Baoluri, Wurenqimuge, Agudam`. |br| Check all mononyms to be “true” mononyms (check PubMed site)
+4.1.4. Check that list of authors contains either of the following:
 
-- LastName can have suffixes. Check that suffix is separated from initials by space: |br| `Rowland KM Jr, Short GF 3d`
+- One author name followed by comma (,) and “et al.”
+
+- Two author names divided by comma (,) and followed by period (.)
+
+.. image:: /_static/editorial_ref_auth_format.png
+   :alt: Max number of authors
+   :scale: 99%
+
+|
 
 3.3. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI PMID:PMIDnumber |span_end|
