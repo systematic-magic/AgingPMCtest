@@ -160,6 +160,19 @@ Callouts can be found in text and figures.
    :scale: 99%
 
 |
+.. _reference_title_pdf_research_papers:
+
+4.2. Reference Title
+^^^^^^^^^^^^^^^^^^^^
+
+Reference title should not be present.
+
+|
+
+
+
+
+
 
 3.3. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI PMID:PMIDnumber |span_end|
