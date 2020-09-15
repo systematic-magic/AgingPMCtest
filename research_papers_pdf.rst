@@ -228,7 +228,7 @@ No PDF-specific checks
 |
 .. _websites_pdf_research_papers:
 
-16.6. Websites
+10.6. Websites
 ^^^^^^^^^^^^^^
 No PDF-specific checks
 
@@ -238,7 +238,7 @@ No PDF-specific checks
 |
 .. _books_pdf_research_papers:
 
-16.7. Books and Reports
+10.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
