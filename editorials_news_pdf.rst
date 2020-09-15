@@ -220,6 +220,38 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 
 |
+.. _citation_data_other_journals_pdf_editorials:
+
+4.4. Citation-Data (other journals)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. ATTENTION::
+	
+	This section is applicable to all journals **except for in-house journals**.
+
+Citation data is a part of a reference, which contains journal title, year, volume, pages, doi and PubMed link.
+
+
+4.4.1. Check that journal citation-data has the following elements in this order: |br|
+|span_format_start| DOI [PubMed] |span_end|
+
+.. image:: /_static/editorial_citation_data_oj.png
+   :alt: Citation-Data format
+
+- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site, https://www.crossref.org/ or the applicable journal website, if necessary.
+
+- “[PubMed]” link must be present (when available) and must be presented as “PMID:” word followed by hyperlinked PMID number.
+
+- “PMID:” word must be written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
+
+- PMID number must be hyperlinked to the article on PubMed website.
+
+4.4.2. If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`4.3.2<citation_data_in_house_format_pdf_editorials>`.
+
+.. image:: /_static/editorial_ref_ahead_of_print_oj.png
+   :alt: Ahead of Print
+
+|
 .. _corresp_author_editorials_news:
 
 4. Corresponding author and affiliations
