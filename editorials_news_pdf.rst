@@ -213,7 +213,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 - PMID number must be hyperlinked to the article on PubMed website.
 
-4.3.3. If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`4.3.2<citation_data_in_house_format_pdf_editorials>`..
+4.3.3. If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`4.3.2<citation_data_in_house_format_pdf_editorials>`.
 
 .. image:: /_static/editorial_ref_ahead_of_print.png
    :alt: Ahead of Print
@@ -252,29 +252,39 @@ Citation data is a part of a reference, which contains journal title, year, volu
    :alt: Ahead of Print
 
 |
-.. _corresp_author_editorials_news:
+.. _corresp_author_pdf_editorials:
 
-4. Corresponding author and affiliations
-----------------------------------------
+5. Corresponding Author and Affiliation
+---------------------------------------
 
-Corresponding author and affiliations can be found at the end of the article right after the References section
+Corresponding author and affiliation can be found at the end of the article right after the References section.
 
-4.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by conlon (:)
+5.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:).
 
-4.2. Check that full name of corresponding author is followed by affiliation (multiple affiliations are allowed and should be divided by semicolon (;))
+5.2. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
-4.3. Check that affiliation is formatted in plain text (no special formatting)
+5.3. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF).
 
-4.4. Check spelling of English words in affiliation
+5.4. Check that affiliation is formatted in :ref:`plain text<plain_text>` (no special formatting).
 
-4.5. Check that there are NO street addresses and house numbers included in affiliation.
+5.5. Check spelling of English words in affiliation.
 
-4.6. Check that country and city names are present in affiliation.
+5.6. Check that there are NO street addresses and house numbers included in affiliation.
 
-4.7. Check that country and city names are NOT written in ALL CAPS (capital letters).
+5.7. Check that country and city names are present in affiliation. State is also required in U.S. affiliations.
 
-4.8. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+5.8. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
+5.9. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
+
+.. image:: /_static/aff_text_zip_china.png
+   :alt: No comma between city/county/district and zip code
+
+5.10. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+
+5.11. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+
+5.12. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/corresp_auth.png
    :alt: Corresponding author and affiliations
