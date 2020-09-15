@@ -1,10 +1,11 @@
 .. role:: sample
 
-.. _title_editorials_news:
+.. _pdf_editorials:
 
-PDF: Editorials and News only
-=============================
+PDF: Editorials
+===============
 
+.. _title_pdf_editorials:
 
 1. Title
 --------
@@ -13,13 +14,15 @@ PDF: Editorials and News only
 
 1.2. Check title spelling.
 
-1.3. Check that title is written in blue and bold font. Note: title of editorials and news is written in smaller font than title of research papers.
+1.3. Check that title is written in blue and bold font. Note: title of editorials is written in smaller font than title of research papers.
 
-1.4. Check that capitalisation of scientific terms is correct.
+1.4. Check that capitalization of scientific terms is correct.
+We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term.
 
-1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
+1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ, via*. 
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
 
+1.6. Check that species and gene names are written in italics.
 
 .. image:: /_static/editiorial_title.png
    :alt: Title
