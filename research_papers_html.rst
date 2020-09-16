@@ -254,7 +254,7 @@ and followed by:
 .. image:: /_static/cpright_format.png
    :alt: Copyright format 
 
-8.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+8.3. Check that Last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
 
 
 |
@@ -284,7 +284,7 @@ and followed by:
 	- Check that reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked.
 
 
-9.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
+9.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1–3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
 Callouts can be found in text, figures and tables.
 
 9.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
