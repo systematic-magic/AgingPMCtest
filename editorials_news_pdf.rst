@@ -396,23 +396,31 @@ Copyright section can be found at the end of the article right after the Keyword
    :alt: Copyright
 
 |
-.. _dates_editorials_news:
+.. _dates_pdf_editorials:
 
-9. Dates
---------
-Recieved and Published dates can be found at the end of the article right after the "Copyright:" section
+10. Dates
+---------
 
-9.1. Check that Recieved and Published dates are separated from "Copyright:" section by blank line
+Received and published dates can be found at the end of the article right after the Copyright section.
 
-9.2. Check that "Recieved:" and "Published:" titles start with capital letter and followed by colon(:)
+10.1. Check that received and published dates are separated from Copyright section by blank line.
 
-9.3. Check that "Recieved:" and "Published:" are formatted in black and bold font.
+10.2. Check that "Received:" and "Published:" titles are :ref:`title case<title_case>` and followed by colon(:).
 
-9.4. Check that each "Recieved:" and "Published:" words are followed by a date.
+10.3. Check that "Received:" and "Published:" are formatted in black and bold font.
 
-9.5. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
+10.4. Check that each "Received:" and "Published:" titles are followed by a date.
+
+10.5. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
 (e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
 
+10.6. Check spelling of the month.
+
+10.7. Check that there are no punctuation marks at the end of received and published date lines.
+
+10.8. Check that Received date is older than Accepted date (i.e. we cannot publish before we accept).
+
+.. note:: Pay attention to years.
 
 .. image:: /_static/editorial_dates.png
    :alt: Dates
