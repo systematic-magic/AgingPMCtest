@@ -26,8 +26,8 @@ Happy hunting!
    :maxdepth: 2
    :caption: Editorials & News only:
 
-   HTML <editorials_news_html>
-   PDF <editorials_news_pdf>
+   HTML <editorials_html>
+   PDF <editorials_pdf>
 
 
 .. toctree::
