@@ -315,23 +315,24 @@ Correspondence section can be found at the end of the article right after the co
    :alt: Correspondence
 
 |
-.. _email_editorials_news:
+.. _email_pdf_editorials:
 
-6. Email
+7. Email
 --------
 
-"Email:" section can be found at the end of the article right after the Correspondnce section
+Email section can be found at the end of the article right after the Correspondence section.
 
-6.1. Check that there is no blank line between Correspondence: and Email: sections
+7.1. Check that there is no blank line between Correspondence and Email sections.
 
-6.2.Check that email section has a title "Email:" (starts with capital letter and followed by colon (:))
+7.2. Check that email section has a title "Email:" (:ref:`title case<title_case>` and followed by colon (:)).
 
-6.3. Check that "Email:" is formatted in black, bold and italic font.
+7.3. Check that "Email:" is formatted in black, bold and italic font.
 
-6.4. Check that "Email:" is followed by hyperlinked email address. In case of multiple emails, those should be divided by comma (,).
+7.4. Check that "Email:" is followed by hyperlinked email address (only one email is allowed in PDF).
 
-6.5. Check that email address is formatted in blue, underlined, italic font.
+7.5. Check that email address is formatted in blue, underlined, italic font.
 
+7.6. Check that there are no punctuation marks at the end of email line.
 
 .. image:: /_static/email.png
    :alt: Email
