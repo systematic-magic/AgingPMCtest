@@ -338,21 +338,24 @@ Email section can be found at the end of the article right after the Corresponde
    :alt: Email
 
 |
-.. _keywords_editorials_news:
+.. _keywords_pdf_editorials:
 
-7. Keywords
+8. Keywords
 -----------
-"Keywords:" section can be found at the end of the article right after the "Email:" section
 
-7.1. Check that there is no blank line between Email: and Keywords: sections
+Keywords section can be found at the end of the article right after the Email section.
 
-7.2. Check that keywords section has a title "Keywords:" (starts with capital letter and followed by colon (:))
+8.1. Check that there is no blank line between Email and Keywords sections.
 
-7.3. Check that "Keywords:" is formatted in black, bold and italic font.
+8.2. Check that Keywords section has a title "Keywords:" (:ref:`title case<title_case>` and followed by colon (:)).
 
-7.4. Check that "Keywords:" is followed by at least one keyword. (Note: number of keywords is not limited).
+8.3. Check that "Keywords:" is formatted in black, bold and italic font.
 
-7.5. Check that keyword (or list of keywords) is formatted in italic font.
+8.4. Check that "Keywords:" is followed by at least one keyword. (Note: number of keywords is limited to 8).
+
+8.5. Check that keyword (or list of keywords) is formatted in italic font.
+
+8.6. Check that there are no punctuation marks at the end of keywords line.
 
 
 .. image:: /_static/editorial_keywords.png
