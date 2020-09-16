@@ -65,4 +65,4 @@ How to check whether term, keyword, etc is in correct case?
 .. _optional_sections:
 
 Optional sections for Editorials
-There are optional sections for Editorials that can appear after Keywords section and before Copyright section in this order: Abbreviations, Acknowledgments, Conflicts of Interest and Funding.
+    There are optional sections for Editorials that can appear after Keywords section and before Copyright section in this order: Abbreviations, Acknowledgments, Conflicts of Interest and Funding.
