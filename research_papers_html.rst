@@ -254,7 +254,7 @@ and followed by:
 .. image:: /_static/cpright_format.png
    :alt: Copyright format 
 
-8.3. Check that Last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
+8.3. Check that last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
 
 
 |
