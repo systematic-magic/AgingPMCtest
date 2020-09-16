@@ -16,7 +16,7 @@ Happy hunting!
 
 .. toctree::
    :maxdepth: 2
-   :caption: ALL PAPERS (except Editorials & News):
+   :caption: ALL PAPERS (except Editorials):
 
    HTML <research_papers_html>
    PDF <research_papers_pdf>
@@ -24,7 +24,7 @@ Happy hunting!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Editorials & News only:
+   :caption: Editorials:
 
    HTML <editorials_html>
    PDF <editorials_pdf>
