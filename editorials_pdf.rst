@@ -26,6 +26,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 .. image:: /_static/editiorial_title.png
    :alt: Title
+   :scale: 99%
 
 |
 .. _author_list_pdf_editorials:
@@ -76,6 +77,7 @@ If you see that author name does not comply to these standards, please notify pr
 
 .. image:: /_static/editorial_authors.png
    :alt: Editorials Author format
+   :scale: 99%
 
 
 |
@@ -196,6 +198,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/editorial_citation_data_inhouse
    :alt: Citation-Data format
+   :scale: 99%
 
 - Journal title should be followed by period (.) There should be a space after period.
 
@@ -217,6 +220,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/editorial_ref_ahead_of_print.png
    :alt: Ahead of Print
+   :scale: 99%
 
 
 |
@@ -237,6 +241,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/editorial_citation_data_oj.png
    :alt: Citation-Data format
+   :scale: 99%
 
 - DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site, https://www.crossref.org/ or the applicable journal website, if necessary.
 
@@ -250,6 +255,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/editorial_ref_ahead_of_print_oj.png
    :alt: Ahead of Print
+   :scale: 99%
 
 |
 .. _corresp_author_pdf_editorials:
@@ -279,6 +285,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 .. image:: /_static/aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
+   :scale: 99%
 
 5.10. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
@@ -288,6 +295,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 .. image:: /_static/corresp_auth.png
    :alt: Corresponding author and affiliations
+   :scale: 99%
 
 |
 .. _correspondence_pdf_editorials:
@@ -313,6 +321,7 @@ Correspondence section can be found at the end of the article right after the co
 
 .. image:: /_static/correspondence.png
    :alt: Correspondence
+   :scale: 99%
 
 |
 .. _email_pdf_editorials:
@@ -336,6 +345,7 @@ Email section can be found at the end of the article right after the Corresponde
 
 .. image:: /_static/email.png
    :alt: Email
+   :scale: 99%
 
 |
 .. _keywords_pdf_editorials:
@@ -360,6 +370,7 @@ Keywords section can be found at the end of the article right after the Email se
 
 .. image:: /_static/editorial_keywords.png
    :alt: Keywords
+   :scale: 99%
 
 |
 .. _copyright_pdf_editorials:
@@ -424,6 +435,7 @@ Received and published dates can be found at the end of the article right after 
 
 .. image:: /_static/editorial_dates.png
    :alt: Dates
+   :scale: 99%
 
 
 
