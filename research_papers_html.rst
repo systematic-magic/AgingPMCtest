@@ -71,8 +71,8 @@ If you see that author name does not comply to these standards, please notify pr
 2.5. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers.
 
 .. image:: /_static/html_aff_texts_and_authors.png
-	:scale: 99%
 	:alt: Affiliation texts and authors
+	:scale: 99%
 
 If there is only one affiliation text for all authors, then each author name should have “1” next to it.
 
@@ -112,6 +112,7 @@ If there is only one affiliation text for all authors, then each author name sho
 
 .. image:: /_static/aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
+   :scale: 99%
 
 3.6. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
@@ -119,6 +120,7 @@ If there is only one affiliation text for all authors, then each author name sho
 
 .. image:: /_static/aff_text_zip_state_city.png
    :alt: No comma between zip code and state (US) / city (non-US)
+   :scale: 99%
 
 3.8. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
 One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contain two affiliations.
@@ -129,11 +131,14 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 .. image:: /_static/aff_current_address.png
    :alt: Current/Present address
+   :scale: 99%
+
 
 3.10. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
+   :scale: 99%
 
 
 |
@@ -187,6 +192,7 @@ Author notes are optional. Article can have several or no author notes.
 
 .. image:: /_static/corr_format.png
    :alt: Correspondence format
+   :scale: 99%
 
 5.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
@@ -196,6 +202,7 @@ Author notes are optional. Article can have several or no author notes.
 
 .. image:: /_static/corr_auth_mtch.png
    :alt: Correspondence author match
+   :scale: 99%
 
 |
 .. _keywords_html_research_papers:
@@ -279,6 +286,7 @@ and followed by:
 
 	.. image:: /_static/callouts_format.png
 		:alt: Callouts format
+		:scale: 99%
 	|
 	- Check that only comma (,) and :ref:`en dash<en_dash>` (–) are used as a separators. No other separators are allowed. 
 
@@ -329,10 +337,12 @@ Callouts can be found in text, figures and tables.
 
 .. image:: /_static/html_pic10_author_number.png
    :alt: Max number of authors
+   :scale: 99%
 
 
 .. image:: /_static/html_pic11_author_etal_number.png
    :alt: Max number of authors followed by et al
+   :scale: 99%
 
 10.1.5. Check that authors are separated by comma (,) followed by space.
 
@@ -347,15 +357,18 @@ Callouts can be found in text, figures and tables.
 
 .. image:: /_static/ref_etal_group_auth.png
    :alt: Group Authorship
+   :scale: 99%
 
 .. image:: /_static/ref_no_etal_group_auth.png
    :alt: Group Authorship
+   :scale: 99%
 
 
 10.1.10. If there are multiple :ref:`group authorships<group_authorship>`, then those should be separated by comma (,) and "and" word. 
 
 .. image:: /_static/ref_mult_group_auth.png
    :alt: Group Authorship
+   :scale: 99%
 
 |
 .. _reference_title_html_research_papers:
@@ -397,6 +410,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/citation_data_inhouse.png
    :alt: Citation-Data format
+   :scale: 99%
 
 - Journal title should be followed by period (.) There should be a space after period.
 
@@ -420,6 +434,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/ref_ahead_of_print.png
    :alt: Ahead of Print
+   :scale: 99%
 
 
 |
@@ -439,9 +454,11 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/citation_data_oj.png
    :alt: Citation-Data format
+   :scale: 99%
 
 .. image:: /_static/ref_ahead_of_print_oj.png
    :alt: Ahead of Print
+   :scale: 99%
 
 - DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site, https://www.crossref.org/ or the applicable journal website, if necessary.
 
@@ -451,6 +468,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/ref_ahead_of_print.png
    :alt: Ahead of Print
+   :scale: 99%
 
 
 |
