@@ -66,6 +66,7 @@ No PDF-specific checks
 
 .. image:: /_static/correspndence_to.png
    :alt: Correspondence to
+   :scale: 99%
 
 
 :ref:`+ HTML checks<correspondece_html_research_papers>`
@@ -86,6 +87,7 @@ No PDF-specific checks
 
 .. image:: /_static/keywords.png
    :alt: Keywords
+   :scale: 99%
 
 :ref:`+ HTML checks<keywords_html_research_papers>`
 
@@ -102,7 +104,7 @@ No PDF-specific checks
 
 .. image:: /_static/dates.png
    :alt: Dates
-
+   :scale: 99%
 
 :ref:`+ HTML checks<dates_html_research_papers>`
 
@@ -128,7 +130,7 @@ No PDF-specific checks
 
 .. image:: /_static/callouts.png
    :alt: Hyperlink
-
+   :scale: 99%
 
 :ref:`+ HTML checks<reference_callouts_html_research_papers>`
 
@@ -176,6 +178,7 @@ No PDF-specific checks
 
 .. image:: /_static/PMIDlink.png
    :alt: PMIDlink
+   :scale: 99%
 
 
 :ref:`+ HTML checks<citation_data_in_house_html_research_papers>`
@@ -194,6 +197,7 @@ No PDF-specific checks
 
 .. image:: /_static/PMIDlink.png
    :alt: PMIDlink
+   :scale: 99%
 
 
 :ref:`+ HTML checks<citation_data_other_journals_html_research_papers>`
