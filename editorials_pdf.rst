@@ -58,8 +58,8 @@ Allowed formats:
 	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
 
 .. Important::
-	As a general rule, we don't want to keep initials for first names. Request the expanded name from the author in this situation. If the authors insist on a first initial, then the middle name(s) must be present and fully expanded. |br| |br|
-	LastName **cannot** be presented as initial (even if authors insist on this). LastName should always be presented in full.
+	As a general rule, we don't want to keep initials for first names. Please notify production team if you notice that an initial is being used for an author’s first name. |br| |br|
+	LastName **cannot** be presented as initial.
 
 
 Please note that last names can be compound, can have prepositions, suffixes, prefixes or be :ref:`mononyms<mononym>`. For example:
@@ -70,7 +70,7 @@ Please note that last names can be compound, can have prepositions, suffixes, pr
 	- Prefixes: :sample:`McCann, O'Kelly`
 	- Mononym: :sample:`Govindjee`
 
-If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
+If you see that author name does not comply to these standards, please notify production team.
 
 2.6. Check that there are no affiliations listed for authors (there must be no affiliations on the page).
 
@@ -115,7 +115,7 @@ Callouts can be found in text and figures.
 
 3.5. Check that reference callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a reference has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
 
-	If one or more references or callouts are missing or are being called out of linear order in the text, please contact author.
+	If one or more references or callouts are missing or are being called out of linear order in the text, please notify production team.
 
 
 |
