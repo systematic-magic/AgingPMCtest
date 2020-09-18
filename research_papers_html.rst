@@ -521,7 +521,7 @@ If the link is not valid, please notify production team.
 10.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-10.7.1. There is no standard for books and reports. However at least Title and Year (and author name for book references)" should be present.
+10.7.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present.
 
 
 |
