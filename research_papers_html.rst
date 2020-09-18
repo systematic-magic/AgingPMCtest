@@ -510,7 +510,7 @@ If you find duplicate references, please contact production team and ask to corr
 
 10.6.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
-10.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+10.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other irrelevant page).
 
 If the link is not valid, please notify production team.
 
@@ -521,7 +521,7 @@ If the link is not valid, please notify production team.
 10.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-10.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be present.
+10.7.1. There is no standard for books and reports. However at least Title and Year (and author name for book references)" should be present.
 
 
 |
