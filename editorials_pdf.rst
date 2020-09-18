@@ -196,7 +196,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 4.3.2. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
-.. image:: /_static/editorial_citation_data_inhouse
+.. image:: /_static/editorial_citation_data_inhouse.png
    :alt: Citation-Data format
    :scale: 99%
 
