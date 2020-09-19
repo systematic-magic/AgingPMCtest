@@ -283,7 +283,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 5.9. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
 
-.. image:: /_static/aff_text_zip_china.png
+.. image:: /_static/editorial_aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
    :scale: 99%
 
