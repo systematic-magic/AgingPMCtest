@@ -382,7 +382,7 @@ Copyright section can be found at the end of the article right after the Keyword
 
 9.1. Check that there is no blank line between Copyright and section preceding it.
 
-9.2. Check that Copyright section has a title "Copyright:" (:ref:`title case<title_case>`).
+9.2. Check that Copyright section has a title "Copyright:" (:ref:`title case<title_case>` and followed by colon (:)).
 
 9.3. Check that "Copyright:" is formatted in black, bold and italic font.
 
@@ -418,7 +418,7 @@ Received and published dates can be found at the end of the article right after 
 
 10.1. Check that received and published dates are separated from Copyright section by blank line.
 
-10.2. Check that "Received:" and "Published:" titles are :ref:`title case<title_case>` and followed by colon(:).
+10.2. Check that "Received:" and "Published:" titles are :ref:`title case<title_case>` and followed by colon (:).
 
 10.3. Check that "Received:" and "Published:" are formatted in black and bold font.
 
