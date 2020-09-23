@@ -311,7 +311,7 @@ Correspondence section can be found at the end of the article right after the co
 
 6.3. Check that "Correspondence:" is formatted in black, bold and italic font.
 
-6.4. Check that "Correspondence:" is followed by full author name. In case of multiple corresponding authors, full names should be divided by comma (,).
+6.4. Check that "Correspondence:" is followed by full author name. (only one corresponding author is allowed in PDF).
 
 6.5. Check that full author name is formatted in italic font.
 
