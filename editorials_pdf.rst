@@ -343,7 +343,7 @@ Email section can be found at the end of the article right after the Corresponde
 
 7.6. Check that there are no punctuation marks at the end of email line.
 
-.. image:: /_static/email.png
+.. image:: /_static/editorial_email.png
    :alt: Email
    :scale: 99%
 
