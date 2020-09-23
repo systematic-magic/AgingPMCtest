@@ -265,7 +265,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 Corresponding author and affiliation can be found at the end of the article right after the References section.
 
-5.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:).
+5.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:) (only one corresponding author is allowed in PDF).
 
 5.2. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
