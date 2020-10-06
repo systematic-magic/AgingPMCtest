@@ -202,6 +202,10 @@ Author notes are optional. Article can have several or no author notes.
    :alt: Correspondence format
    :scale: 99%
 
+.. image:: /_static/html_orcid_email.png
+   :alt: ORCID email format
+   :scale: 99%
+
 5.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
 5.7. Check that email address is hyperlinked.
@@ -212,9 +216,6 @@ Author notes are optional. Article can have several or no author notes.
    :alt: Correspondence author match
    :scale: 99%
 
-.. image:: /_static/html_orcid_email.png
-   :alt: ORCID email format
-   :scale: 99%
 
 |
 .. _keywords_html_research_papers:
