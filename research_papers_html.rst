@@ -114,18 +114,20 @@ If there is only one affiliation text for all authors, then each author name sho
    :alt: No comma between city/county/district and zip code
    :scale: 99%
 
-3.6. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+3.6. Taiwanese affiliations: Check that “Taiwan” is used for the country. “ROC” and/or “Republic of China” should not be used instead of or in addition to “Taiwan”.
 
-3.7. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+3.7. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+
+3.8. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
 
 .. image:: /_static/aff_text_zip_state_city.png
    :alt: No comma between zip code and state (US) / city (non-US)
    :scale: 99%
 
-3.8. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
+3.9. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
 One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contain two affiliations.
 
-3.9. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that the title is followed by colon (:). |br| One address - one affiliation number. 
+3.10. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that the title is followed by colon (:). |br| One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
@@ -134,7 +136,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
    :scale: 99%
 
 
-3.10. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+3.11. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
@@ -306,7 +308,7 @@ and followed by:
 
 	- Check that there is a space after comma (,) and no space before and after en dash (–).
 
-	- Check that reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked.
+	- Check that all reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked (callouts will not be hyperlinked if they appear in figures).
 
 
 9.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1–3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|

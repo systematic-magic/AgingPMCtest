@@ -287,11 +287,13 @@ Corresponding author and affiliation can be found at the end of the article righ
    :alt: No comma between city/county/district and zip code
    :scale: 99%
 
-5.10. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+5.10. Taiwanese affiliations: Check that “Taiwan” is used for the country. “ROC” and/or “Republic of China” should not be used instead of or in addition to “Taiwan”.
 
-5.11. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+5.11. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
-5.12. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+5.12. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+
+5.13. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/corresp_auth.png
    :alt: Corresponding author and affiliations
