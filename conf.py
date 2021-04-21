@@ -8,7 +8,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = ‘Staged Aging PMC Corrections documents'
+project = ‘Aging PMC Corrections documents'
  author = 'Aginh'
 
 
