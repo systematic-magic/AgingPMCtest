@@ -1,5 +1,5 @@
 
-Welcome to PMC Corrections documentation!
+STAGED PMC Corrections documentation!
 =========================================
 
 The purpose of this document is to provide a simple but detailed guide to the realm of PMC corrections.
