@@ -8,8 +8,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = ‘Aging PMC Corrections documents'
- author = 'Aginh'
+project = 'Aging PMC Corrections documents'
+copyright = '2019, Aging'
+author = 'Aginh'
 
 
 version = '0.1'
@@ -42,7 +43,7 @@ latex_elements = {}
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'AgingPMCCorrectionsdocuments.tex', ‘Aging PMC Corrections documents Documentation',
+    (master_doc, 'AgingPMCCorrectionsdocuments.tex', 'Aging PMC Corrections documents Documentation',
      'Aging', 'manual'),
 ]
 
